@@ -1,4 +1,4 @@
-# Título del Proyecto
+# 2NEL
 
 Aquí se desarrolla la single page del trabajo 2NEL, grupo Minka del curso de aplicaciones web.
 
